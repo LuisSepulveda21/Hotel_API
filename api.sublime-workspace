@@ -1,0 +1,282 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"def",
+				"default〔keyword〕"
+			],
+			[
+				"hot",
+				"$hotel〔variable〕"
+			],
+			[
+				"exc",
+				"$exception〔variable〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/Api"
+	],
+	"file_history":
+	[
+		"/C/wamp64/www/FinalHotel/app/Http/Controllers/HotelController.php",
+		"/C/wamp64/www/FinalHotel/app/Hotel.php",
+		"/C/wamp64/www/FinalHotel/routes/web.php",
+		"/C/wamp64/www/FinalHotel/routes/api.php",
+		"/C/wamp64/www/FinalHotel/app/Http/Controllers/KeysapiController.php",
+		"/C/wamp64/www/FinalHotel/app/Keysapi.php",
+		"/C/wamp64/www/FinalHotel/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/wamp64/www/FinalHotel/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/C/wamp64/www/FinalHotel/database/migrations/2018_10_12_153738_create_keysapis_table.php",
+		"/C/wamp64/www/Hotelapi/database/migrations/2018_10_12_150330_create_api_keys_table.php",
+		"/C/wamp64/www/Hotelapi/app/Hotel.php",
+		"/C/wamp64/www/Hotelapi/database/migrations/2018_10_11_154859_create_hotels_table.php",
+		"/C/wamp64/www/Hotelapi/routes/web.php",
+		"/C/wamp64/www/Hotelapi/app/Http/Controllers/Hotel/HotelController.php",
+		"/C/wamp64/www/Hotelapi/app/ApiKey.php",
+		"/C/wamp64/www/Hotelapi/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/wamp64/www/Hotelapi/routes/api.php",
+		"/C/wamp64/www/Hotelapi/app/Http/Controllers/User/UserController.php",
+		"/C/wamp64/www/Hotelapi/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php",
+		"/C/wamp64/www/Hotelapi/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/C/wamp64/www/Hotelapi/vendor/league/oauth2-server/src/Grant/PasswordGrant.php",
+		"/C/wamp64/www/Hotelapi/vendor/laravel/passport/src/Bridge/PersonalAccessGrant.php",
+		"/C/wamp64/www/Hotelapi/vendor/league/oauth2-server/src/CryptKey.php",
+		"/C/wamp64/www/Hotelapi/vendor/league/oauth2-server/src/AuthorizationServer.php",
+		"/C/wamp64/www/Hotelapi/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/wamp64/www/Hotelapi/vendor/fzaninotto/faker/src/Faker/Provider/Internet.php",
+		"/C/wamp64/www/Hotelapi/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithInput.php",
+		"/C/wamp64/www/Hotelapi/public/js/app.js",
+		"/C/wamp64/www/Hotelapi/vendor/laravel/framework/src/Illuminate/Notifications/Messages/SimpleMessage.php",
+		"/C/wamp64/www/Hotelapi/vendor/laravel/framework/src/Illuminate/Auth/Passwords/PasswordBroker.php",
+		"/C/wamp64/www/Hotelapi/app/User.php",
+		"/C/wamp64/www/Hotelapi/vendor/laravel/framework/src/Illuminate/Validation/Validator.php",
+		"/C/wamp64/www/Hotelapi/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php",
+		"/C/wamp64/www/Hotelapi/app/Exceptions/Handler.php",
+		"/C/wamp64/www/Hotelapi/config/auth.php",
+		"/C/wamp64/www/Hotelapi/config/app.php",
+		"/C/wamp64/www/Hotelapi/app/Providers/ObserverServiceProvider.php",
+		"/C/wamp64/www/Hotelapi/app/Observers/UserObserver.php",
+		"/C/wamp64/www/Hotelapi/app/Providers/AppServiceProvider.php",
+		"/C/wamp64/www/Hotelapi/app/Http/Controllers/ApiController.php",
+		"/C/wamp64/www/Hotelapi/database/migrations/2018_10_11_154917_create_reservations_table.php",
+		"/C/wamp64/www/Hotelapi/app/Reservation.php",
+		"/C/wamp64/www/Hotelapi/app/Providers/AuthServiceProvider.php",
+		"/C/wamp64/www/Hotelapi/config/session.php",
+		"/C/wamp64/www/Hotelapi/app/Http/Controllers/UserController.php",
+		"/C/wamp64/www/Hotelapi/app/Traits/ApiResponser.php",
+		"/C/wamp64/www/Hotelapi/.env",
+		"/C/wamp64/www/Hotelini/routes/api.php",
+		"/C/wamp64/www/Hotelini/routes/web.php",
+		"/C/wamp64/www/Hotelini/app/Hotel.php",
+		"/C/wamp64/www/Hotelini/app/Traits/ApiResponser.php",
+		"/C/wamp64/www/Hotelini/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/C/wamp64/www/Hotelini/app/Exceptions/Handler.php",
+		"/C/wamp64/www/Hotelini/app/Http/Controllers/ApiController.php",
+		"/C/wamp64/www/Hotelini/app/Http/Controllers/Hotel/HotelController.php",
+		"/C/wamp64/www/Hotelini/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php",
+		"/C/wamp64/www/Hotelini/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/wamp64/www/Hotelini/database/migrations/2018_10_06_135210_create_hotels_table.php",
+		"/C/wamp64/www/Hotelini/database/migrations/2018_10_06_135252_create_rooms_table.php",
+		"/C/wamp64/www/Hotelini/database/migrations/2018_10_07_181437_create_reservations_table.php",
+		"/C/wamp64/www/Hotelini/app/Http/Controllers/room/RoomController.php",
+		"/C/wamp64/www/Hotelini/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/C/wamp64/www/Hotelini/.env",
+		"/C/wamp64/www/Hotelini/app/Providers/AppServiceProvider.php",
+		"/C/wamp64/www/Hotelini/app/room.php",
+		"/C/wamp64/www/Hotelini/app/Reservation.php",
+		"/C/wamp64/www/Hotelini/app/User.php",
+		"/C/wamp64/www/Hotelini/database/migrations/2018_10_07_180134_create_articles_table.php",
+		"/C/Users/Wim/Documents/GitHub/Hotelini/app/Providers/AppServiceProvider.php",
+		"/C/Users/Wim/Documents/GitHub/Hotelini/.env",
+		"/C/Users/Wim/Documents/GitHub/Hotelini/config/database.php",
+		"/C/Users/Wim/Documents/GitHub/Hotelini/database/migrations/2018_10_06_135252_create_rooms_table.php",
+		"/C/Users/Wim/Documents/GitHub/Hotelini/database/migrations/2018_10_06_135210_create_hotels_table.php",
+		"/C/Users/Wim/Documents/GitHub/Hotelini/database/seeds/DatabaseSeeder.php",
+		"/C/Users/Wim/Documents/GitHub/Hotelini/database/factories/ModelFactory.php",
+		"/C/Users/Wim/Documents/GitHub/Hotelini/app/Hotel.php",
+		"/C/Users/Wim/Documents/GitHub/Hotelini/app/room.php",
+		"/C/Users/Wim/Documents/GitHub/Hotelini/routes/api.php",
+		"/C/Users/Wim/Documents/GitHub/Hotelini/app/Http/Controllers/Hotel/HotelController.php",
+		"/C/Users/Wim/Documents/GitHub/RESTfulAPI/vendor/laravel/framework/src/Illuminate/Notifications/Notifiable.php",
+		"/C/Users/Wim/Documents/GitHub/RESTfulAPI/composer.lock"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "api.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Wim\\Documents\\GitHub\\RESTfulAPI\\RESTfulAPI.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

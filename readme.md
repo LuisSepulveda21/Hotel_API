@@ -1,3 +1,22 @@
+<h1>Specific open functionalities:</h1> 
+
+    1. Search by several criteria, including: hotel name, state, hotel type, and size (please use the following criteria for grouping hotels by number of rooms: 10 to 50 rooms is a small hotel, 51 to 100 rooms is a medium size hotel, and more than 100 rooms is a large   hotel).   
+    2. Search for hotels given a location (latitude and longitude) and a range. 
+    3. Check for availability in hotels, given a start date, final date, and a state. 
+    4. User creation, given: email, password, name, last name, address, and it must return the new user ID. 
+    5. User update, given: user ID, password, address, and it must return 1 if successful, 0 if not, and a reason. 
+    6. Reserve rooms (could be more than one), given a hotel ID, user ID, a start and final date. The service must check availability before reserving. It must return the reservation ID. 
+    7. Create a new API key. This service expects as parameters contact name, company and email. The site will generate a random API key that users must use to call certain parts of the API. In a real scenario, Expedia would not generate API keys for just any user without restrictions.
+
+<h1>Functionalities protected by the use of an API key:</h1>
+
+    8. Post a new hotel to the database. For this, please consider the following options: posting all the fields or posting only name, address, type of hotel, number of rooms, and state. The service expects an API key to call this service. 
+    9. Update a hotel of the database. For this, only the following columns are updatable (and all parameters are expected: hotel type, number of rooms, phone number, website, and contact email.
+    10. Delete a hotel from the database. The service needs the API key, plus the hotel ID to delete a hotel. 
+
+ All the services return JSON as response. 
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
